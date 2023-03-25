@@ -1,5 +1,3 @@
-# Mod_12_JavaScript
-
 OVERVIEW
 The overview of this project provides an in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. Also users can filter by city, state, country, and shape. This project also includes studying JavaScript and looking into its technical parts to see how it applies to the field of data analytics and visualization.
 
